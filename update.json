@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0-test2",
+  "apkUrl": "https://github.com/AustinBassWork/likeness-guard-releases/releases/download/v0.1.0-test2/LikenessGuard-0.1.0-test2.apk",
+  "sha256": "dccea950980aaeda9e6c27e4cc2e36c891d32d5d172c1d251f17cfc64beac698",
+  "minSdk": 28,
+  "notes": "Test build 2: fixes the crash after the intro, adds guided setup and a new look."
+}
