@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0-test2",
-  "apkUrl": "https://github.com/AustinBassWork/likeness-guard-releases/releases/download/v0.1.0-test2/LikenessGuard-0.1.0-test2.apk",
-  "sha256": "dccea950980aaeda9e6c27e4cc2e36c891d32d5d172c1d251f17cfc64beac698",
+  "versionCode": 3,
+  "versionName": "0.1.0-test3",
+  "apkUrl": "https://github.com/AustinBassWork/likeness-guard-releases/releases/download/v0.1.0-test3/LikenessGuard-0.1.0-test3.apk",
+  "sha256": "722e45cdb3aa947a52bf9b66e95cf16b115ca467a7c6cc859140d9b617655067",
   "minSdk": 28,
-  "notes": "Test build 2: fixes the crash after the intro, adds guided setup and a new look."
+  "notes": "Test build 3: new AI detector (real photos near 0%), fixes \"image could not be checked\", reliable large downloads."
 }
