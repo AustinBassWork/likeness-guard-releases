@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.0-test3",
-  "apkUrl": "https://github.com/AustinBassWork/likeness-guard-releases/releases/download/v0.1.0-test3/LikenessGuard-0.1.0-test3.apk",
-  "sha256": "722e45cdb3aa947a52bf9b66e95cf16b115ca467a7c6cc859140d9b617655067",
+  "versionCode": 4,
+  "versionName": "0.1.0-test4",
+  "apkUrl": "https://github.com/AustinBassWork/likeness-guard-releases/releases/download/v0.1.0-test4/LikenessGuard-0.1.0-test4.apk",
+  "sha256": "81c2a13f9db549a65b6b7418e87ff9282b09f78a07eb2d7b9d14dee01144f89d",
   "minSdk": 28,
-  "notes": "Test build 3: new AI detector (real photos near 0%), fixes \"image could not be checked\", reliable large downloads."
+  "notes": "Test build 4: check videos frame by frame, check without setting up your face, see where a picture was changed."
 }
